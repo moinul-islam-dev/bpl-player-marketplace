@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "player_name": "Shakib Al Hasan",
+    "country_name": "Bangladesh",
+    "player_type": "All-rounder",
+    "rating": 5,
+    "batting_style": "Left-hand-bat",
+    "price": 8000000,
+    "player_image": "https://i.ibb.co/qzRXt1y/Shakib-Al-Hasan.webp"
+  },
+  {
+    "id": 2,
+    "player_name": "Tamim Iqbal",
+    "country_name": "Bangladesh",
+    "player_type": "Batsman",
+    "rating": 4,
+    "batting_style": "Left-hand-bat",
+    "price": 6000000,
+    "player_image": "https://i.ibb.co/cKhz8fYb/141742847977-6-640x480.webp"
+  },
+  {
+    "id": 3,
+    "player_name": "Taskin Ahmed",
+    "country_name": "Bangladesh",
+    "player_type": "Bowler",
+    "rating": 5,
+    "batting_style": "Left-hand-bat",
+    "price": 6000000,
+    "player_image": "https://i.ibb.co/3YQBsmND/taskin-ahmed.webp"
+  },
+  {
+    "id": 4,
+    "player_name": "Moeen Ali",
+    "country_name": "England",
+    "player_type": "All-rounder",
+    "rating": 4,
+    "batting_style": "Left-hand-bat",
+    "price": 8500000,
+    "player_image": "https://i.ibb.co/LDVSSrTd/Moeen-Ali-horoscope.webp"
+  },
+  {
+    "id": 5,
+    "player_name": "Towhid Hridoy",
+    "country_name": "Bangladesh",
+    "player_type": "Batsman",
+    "rating": 4,
+    "batting_style": "Right-hand-bat",
+    "price": 6000000,
+    "player_image": "https://i.ibb.co/qF1rsrps/Towhid-Hridoy.webp"
+  },
+  {
+    "id": 6,
+    "player_name": "Mustafizur Rahman",
+    "country_name": "Bangladesh",
+    "player_type": "Bowler",
+    "rating": 5,
+    "batting_style": "Left-hand-bat",
+    "price": 6000000,
+    "player_image": "https://i.ibb.co/Q3w249QK/Mustafizur-Rahman.webp"
+  },
+  {
+    "id": 7,
+    "player_name": "Alex Hales",
+    "country_name": "England",
+    "player_type": "Batsman",
+    "rating": 4,
+    "batting_style": "Right-hand-bat",
+    "price": 7500000,
+    "player_image": "https://i.ibb.co/CpT53wKH/Alex-Hales.webp"
+  },
+  {
+    "id": 8,
+    "player_name": "Mehedi Hasan Miraz",
+    "country_name": "Bangladesh",
+    "player_type": "All-rounder",
+    "rating": 5,
+    "batting_style": "Right-hand-bat",
+    "price": 6000000,
+    "player_image": "https://i.ibb.co/396GhM55/Mehidy-Hasan-Miraz.webp"
+  },
+  {
+    "id": 9,
+    "player_name": "Litton Das",
+    "country_name": "Bangladesh",
+    "player_type": "Batsman",
+    "rating": 4,
+    "batting_style": "Right-hand-bat",
+    "price": 4000000,
+    "player_image": "https://i.ibb.co/0b535cn/Litton-Das.webp"
+  },
+  {
+    "id": 10,
+    "player_name": "Mohammad Nabi",
+    "country_name": "Afghanistan",
+    "player_type": "All-rounder",
+    "rating": 4,
+    "batting_style": "Right-hand-bat",
+    "price": 5500000,
+    "player_image": "https://i.ibb.co/FkP1hymb/Mohammad-Nabi.webp"
+  }
+]
